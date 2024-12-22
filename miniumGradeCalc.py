@@ -1,8 +1,16 @@
 from my_grades import *
 # not showing u my actual grades lol
 
+# example grades dictionary:
+gradesDictEx = {
+    "Attendance": [100, 0.09],
+    "Homework": [100, 0.10],
+    "Midterm 1": [100, 0.15],
+    "Midterm 2": [100, 0.15],
+}
 # key: specific assignment
 # value: list[current grade, weight]
+
 
 # weight of the final
 finalWeight = 0.25
